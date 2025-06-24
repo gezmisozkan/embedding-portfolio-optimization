@@ -19,13 +19,13 @@ Backtesting is performed from 2018 to 2025 over 1,093 USD-aligned global assets 
 ## 🧠 Poster Visuals
 
 ### Embedding Space
-![PCA Embedding Plot](images/embedding_plot_2d_text_big.png)
+![PCA Embedding Plot](images/embedding_plot_2d_text_big.svg)
 
 ### Cumulative Returns
-![Cumulative Returns](images/cum_returns_all_larger_text.png)
+![Cumulative Returns](images/cum_returns_all_larger_text.svg)
 
 ### Benchmark Comparison
-![Baseline Comparison](images/cum_returns_baseline_larger_text.png)
+![Baseline Comparison](images/cum_returns_baseline_larger_text.svg)
 
 ---
 
